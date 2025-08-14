@@ -2,6 +2,9 @@
 
 A minimalistic to-do app built with React, Vite, and Tailwind CSS.
 
+## View Live
+https://todoappreactvite.netlify.app/
+
 ## Run Locally
 
 1. **Clone the repository**
